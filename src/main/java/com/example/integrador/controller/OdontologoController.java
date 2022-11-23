@@ -11,6 +11,7 @@ import java.util.Optional;
 
 @AllArgsConstructor
 @RestController
+@CrossOrigin
 @RequestMapping(path="/odontologo")
 public class OdontologoController {
 
